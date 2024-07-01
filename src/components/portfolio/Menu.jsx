@@ -69,14 +69,14 @@ export const Menu = [
   {
     id: 9,
     image: Unore,
-    title: "Muraflex",
+    title: "Unore",
     category: ["Frontend", "Mobile"],
     url: "https://unore.io",
   },
   {
     id: 10,
     image: Zilculator,
-    title: "Muraflex",
+    title: "Zilculator",
     category: ["Frontend", "Backend", "Mobile"],
     url: "https://www.zilculator.com",
   },
